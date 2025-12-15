@@ -28,7 +28,7 @@ The goal is to test whether the store's new system achieves targets of increasin
 ---
 
 ## 🚀 How to use
-1. Open the `TesteAB.ipynb` file in **Jupyter Notebook**.
+1. Open the `ProjetoAB.ipynb` file in **Jupyter Notebook**.
 2. Run the cells in order.
 3. View the data analysis results.
 
